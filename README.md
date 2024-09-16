@@ -1,7 +1,7 @@
 <div align="center">
-## Hi there, I am Aazin 👋
+<h2> Hi there, I am Aazin </h2> 👋
 
-A Software Engineer having around 2 years of experience and a Master of Science in Computer Science graduate
+**A Software Engineer having around 2 years of experience and a Master of Science in Computer Science graduate**
 SWE intern at Apple | Indiana University (2024)
 </div>
 
