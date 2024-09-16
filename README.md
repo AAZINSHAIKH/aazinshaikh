@@ -5,12 +5,11 @@
 <p> SWE intern at Apple | Indiana University (2024) </p>
 </div>
 
-#### Dive Into My Creations:
-- 🛍️ **Product Review System:** Explore how I enhanced customer shopping experiences by building a user-friendly app for product comparisons and reviews.
-- 🚚 **Delivery Management System:** Essentially your delivery buddy, with Real-time tracking, seamless chat and payment system.
-- 🎮 **Breakout Game:** Remember the classic Breakout game? I coded it from scratch using **object-oriented design patterns**, giving it a modern twist.
-... and many more.<br>
-Do check out [my repos](https://github.com/AAZINSHAIKH?tab=repositories) for other exciting projects!
+<h3> Dive Into My Creations:</h3>
+<p>🛍️ <strong>Product Review System</strong>: Explore how I enhanced customer shopping experiences by building a user-friendly app for product comparisons and reviews.</p>
+<p>🚚 <strong>Delivery Management System</strong>: Essentially your delivery buddy, with Real-time tracking, seamless chat and payment system.</p>
+<p>🎮 <strong>Breakout Game</strong>: Remember the classic Breakout game? I coded it from scratch using object-oriented design patterns, giving it a modern twist.</p>
+<p>... and many more. Do check out <a href="https://github.com/AAZINSHAIKH?tab=repositories">my repos</a> for other exciting projects!</p>
 
 I’m always open to new opportunities and collaborations. Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/aazinshaikh17298)!
 
