@@ -5,7 +5,7 @@
 <p> SWE intern at Apple | Indiana University (2024) </p>
 </div>
 
-##### Check Out My Repos:
+#### Check Out My Repos:
 - 🛍️ **Product Review System:** Explore how I enhanced customer shopping experiences by building a user-friendly app for product comparisons and reviews.
 - 🚚 **Delivery Management System:** Essentially your delivery buddy, with Real-time tracking, seamless chat and payment system.
 - 🎮 **Breakout Game:** Remember the classic Breakout game? I coded it from scratch using **object-oriented design patterns**, giving it a modern twist.
